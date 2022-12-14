@@ -1,0 +1,244 @@
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\EvaluacionC01\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\appsettings.Development.json
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\EvaluacionC01\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\appsettings.json
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\EvaluacionC01\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\api-RegistroDeportivo.exe
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\EvaluacionC01\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\api-RegistroDeportivo.deps.json
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\EvaluacionC01\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\api-RegistroDeportivo.runtimeconfig.json
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\EvaluacionC01\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\api-RegistroDeportivo.runtimeconfig.dev.json
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\EvaluacionC01\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\api-RegistroDeportivo.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\EvaluacionC01\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\ref\api-RegistroDeportivo.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\EvaluacionC01\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\api-RegistroDeportivo.pdb
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\EvaluacionC01\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Humanizer.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\EvaluacionC01\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\EvaluacionC01\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\EvaluacionC01\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\EvaluacionC01\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\EvaluacionC01\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\EvaluacionC01\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\EvaluacionC01\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\EvaluacionC01\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\EvaluacionC01\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\EvaluacionC01\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\EvaluacionC01\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\EvaluacionC01\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\EvaluacionC01\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\EvaluacionC01\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\EvaluacionC01\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\EvaluacionC01\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\EvaluacionC01\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\EvaluacionC01\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\EvaluacionC01\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\EvaluacionC01\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\EvaluacionC01\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\EvaluacionC01\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\EvaluacionC01\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\EvaluacionC01\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\EvaluacionC01\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\EvaluacionC01\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\EvaluacionC01\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\EvaluacionC01\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\EvaluacionC01\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\EvaluacionC01\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\EvaluacionC01\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\EvaluacionC01\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\EvaluacionC01\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\EvaluacionC01\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\EvaluacionC01\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\EvaluacionC01\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\api-RegistroDeportivo.csproj.AssemblyReference.cache
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\EvaluacionC01\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\api-RegistroDeportivo.GeneratedMSBuildEditorConfig.editorconfig
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\EvaluacionC01\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\api-RegistroDeportivo.AssemblyInfoInputs.cache
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\EvaluacionC01\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\api-RegistroDeportivo.AssemblyInfo.cs
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\EvaluacionC01\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\api-RegistroDeportivo.csproj.CoreCompileInputs.cache
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\EvaluacionC01\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\api-RegistroDeportivo.MvcApplicationPartsAssemblyInfo.cs
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\EvaluacionC01\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\api-RegistroDeportivo.MvcApplicationPartsAssemblyInfo.cache
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\EvaluacionC01\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\staticwebassets\api-RegistroDeportivo.StaticWebAssets.Manifest.cache
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\EvaluacionC01\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\staticwebassets\api-RegistroDeportivo.StaticWebAssets.xml
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\EvaluacionC01\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\scopedcss\bundle\api-RegistroDeportivo.styles.css
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\EvaluacionC01\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\api-RegistroDeportivo.RazorTargetAssemblyInfo.cache
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\EvaluacionC01\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\api-RegistroDeportivo.csproj.CopyComplete
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\EvaluacionC01\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\api-RegistroDeportivo.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\EvaluacionC01\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\ref\api-RegistroDeportivo.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\EvaluacionC01\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\api-RegistroDeportivo.pdb
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\EvaluacionC01\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\api-RegistroDeportivo.genruntimeconfig.cache
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\herramientaprogramacion2\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\appsettings.Development.json
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\herramientaprogramacion2\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\appsettings.json
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\herramientaprogramacion2\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\api-RegistroDeportivo.exe
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\herramientaprogramacion2\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\api-RegistroDeportivo.deps.json
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\herramientaprogramacion2\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\api-RegistroDeportivo.runtimeconfig.json
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\herramientaprogramacion2\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\api-RegistroDeportivo.runtimeconfig.dev.json
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\herramientaprogramacion2\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\api-RegistroDeportivo.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\herramientaprogramacion2\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\ref\api-RegistroDeportivo.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\herramientaprogramacion2\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\api-RegistroDeportivo.pdb
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\herramientaprogramacion2\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Humanizer.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\herramientaprogramacion2\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\herramientaprogramacion2\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\herramientaprogramacion2\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\herramientaprogramacion2\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\herramientaprogramacion2\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\herramientaprogramacion2\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\herramientaprogramacion2\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\herramientaprogramacion2\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\herramientaprogramacion2\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\herramientaprogramacion2\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\herramientaprogramacion2\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\herramientaprogramacion2\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\herramientaprogramacion2\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\herramientaprogramacion2\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\herramientaprogramacion2\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\herramientaprogramacion2\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\herramientaprogramacion2\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\herramientaprogramacion2\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\herramientaprogramacion2\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\herramientaprogramacion2\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\herramientaprogramacion2\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\herramientaprogramacion2\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\herramientaprogramacion2\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\herramientaprogramacion2\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\herramientaprogramacion2\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\herramientaprogramacion2\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\herramientaprogramacion2\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\herramientaprogramacion2\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\herramientaprogramacion2\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\herramientaprogramacion2\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\herramientaprogramacion2\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\herramientaprogramacion2\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\herramientaprogramacion2\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\herramientaprogramacion2\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\herramientaprogramacion2\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\herramientaprogramacion2\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\api-RegistroDeportivo.csproj.AssemblyReference.cache
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\herramientaprogramacion2\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\api-RegistroDeportivo.GeneratedMSBuildEditorConfig.editorconfig
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\herramientaprogramacion2\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\api-RegistroDeportivo.AssemblyInfoInputs.cache
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\herramientaprogramacion2\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\api-RegistroDeportivo.AssemblyInfo.cs
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\herramientaprogramacion2\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\api-RegistroDeportivo.csproj.CoreCompileInputs.cache
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\herramientaprogramacion2\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\api-RegistroDeportivo.MvcApplicationPartsAssemblyInfo.cs
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\herramientaprogramacion2\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\api-RegistroDeportivo.MvcApplicationPartsAssemblyInfo.cache
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\herramientaprogramacion2\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\staticwebassets\api-RegistroDeportivo.StaticWebAssets.Manifest.cache
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\herramientaprogramacion2\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\staticwebassets\api-RegistroDeportivo.StaticWebAssets.xml
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\herramientaprogramacion2\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\scopedcss\bundle\api-RegistroDeportivo.styles.css
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\herramientaprogramacion2\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\api-RegistroDeportivo.RazorTargetAssemblyInfo.cache
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\herramientaprogramacion2\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\api-RegistroDeportivo.csproj.CopyComplete
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\herramientaprogramacion2\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\api-RegistroDeportivo.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\herramientaprogramacion2\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\ref\api-RegistroDeportivo.dll
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\herramientaprogramacion2\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\api-RegistroDeportivo.pdb
+F:\IDAT CLASES\CICLO IV\Herramienta de Programación II\herramientaprogramacion2\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\api-RegistroDeportivo.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\appsettings.json
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\api-RegistroDeportivo.exe
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\api-RegistroDeportivo.deps.json
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\api-RegistroDeportivo.runtimeconfig.json
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\api-RegistroDeportivo.runtimeconfig.dev.json
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\api-RegistroDeportivo.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\ref\api-RegistroDeportivo.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\api-RegistroDeportivo.pdb
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\api-RegistroDeportivo.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\api-RegistroDeportivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\api-RegistroDeportivo.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\api-RegistroDeportivo.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\api-RegistroDeportivo.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\api-RegistroDeportivo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\api-RegistroDeportivo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\staticwebassets\api-RegistroDeportivo.StaticWebAssets.Manifest.cache
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\staticwebassets\api-RegistroDeportivo.StaticWebAssets.xml
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\scopedcss\bundle\api-RegistroDeportivo.styles.css
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\api-RegistroDeportivo.RazorTargetAssemblyInfo.cache
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\api-RegistroDeportivo.csproj.CopyComplete
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\api-RegistroDeportivo.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\ref\api-RegistroDeportivo.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\api-RegistroDeportivo.pdb
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\api-RegistroDeportivo.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\back\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\api-RegistroDeportivo.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\back\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\api-RegistroDeportivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\back\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\api-RegistroDeportivo.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\back\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\api-RegistroDeportivo.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\back\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\api-RegistroDeportivo.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\back\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\api-RegistroDeportivo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\back\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\api-RegistroDeportivo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\back\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\api-RegistroDeportivo.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\back\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\ref\api-RegistroDeportivo.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\back\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\api-RegistroDeportivo.pdb
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\back\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\back\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\appsettings.json
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\back\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\api-RegistroDeportivo.exe
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\back\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\api-RegistroDeportivo.deps.json
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\back\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\api-RegistroDeportivo.runtimeconfig.json
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\back\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\api-RegistroDeportivo.runtimeconfig.dev.json
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\back\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\api-RegistroDeportivo.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\back\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\ref\api-RegistroDeportivo.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\back\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\api-RegistroDeportivo.pdb
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\back\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\back\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\back\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\back\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\back\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\back\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\back\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\back\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\back\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\back\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\back\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\back\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\back\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\back\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\back\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\back\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\back\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\back\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\back\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\back\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\back\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\back\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\back\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\back\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\back\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\back\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\back\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\back\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\back\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\back\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\back\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\back\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\back\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\back\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\back\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\back\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\back\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\staticwebassets\api-RegistroDeportivo.StaticWebAssets.Manifest.cache
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\back\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\staticwebassets\api-RegistroDeportivo.StaticWebAssets.xml
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\back\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\scopedcss\bundle\api-RegistroDeportivo.styles.css
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\back\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\api-RegistroDeportivo.RazorTargetAssemblyInfo.cache
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\back\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\api-RegistroDeportivo.csproj.CopyComplete
+C:\Users\Gustavo\Desktop\Ciclo 4\Herramientas de Programación 2\Gestion de Matricula\back\EvaluacionC02\api-RegistroDeportivo\api-RegistroDeportivo\obj\Debug\net5.0\api-RegistroDeportivo.genruntimeconfig.cache
