@@ -44,7 +44,15 @@ namespace api_RegistroDeportivo.Controllers
         {
             var local = await context.Locales
                 .FirstOrDefaultAsync(x => x.codLocal == id);
-            return local;
+
+            if (local == null)
+            {
+                return NotFound();
+            }
+            else
+            {
+                return local;
+            }
         }
 
         //cuando queremos actualizar informacion

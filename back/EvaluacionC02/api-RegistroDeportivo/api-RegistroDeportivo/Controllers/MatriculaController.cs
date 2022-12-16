@@ -48,7 +48,15 @@ namespace api_RegistroDeportivo.Controllers
             var matricula = await context.Matricula
                 .FirstOrDefaultAsync(x => x.codmatricula == id);
 
-            return matricula;
+
+            if (matricula == null)
+            {
+                return NotFound();
+            }
+            else
+            {
+                return matricula;
+            }
 
         }
 

@@ -56,12 +56,20 @@ namespace api_RegistroDeportivo.Controllers
         }
 
         //cuando queremos Buscar informacion
-        [HttpGet("{dni:int}")]
+        [HttpGet("{id:int}")]
         public async Task<ActionResult<Alumno>> findById(int id)
         {
             var alumno = await context.Alumno
-                .FirstOrDefaultAsync(x => x.dni == id);
-            return alumno;
+                .FirstOrDefaultAsync(x => x.codAlumno == id);
+
+            if (alumno == null)
+            {
+                return NotFound();
+            }
+            else
+            {
+                return alumno;
+            }
         }
 
         //cuando queremos actualizar informacion

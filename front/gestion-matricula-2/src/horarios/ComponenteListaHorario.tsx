@@ -1,7 +1,7 @@
 import axios, { AxiosResponse } from "axios";
 import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
- import { HorariosDTO } from "./horarios.model";
+import { HorariosDTO } from "./horarios.model";
 
 export default function ComponenteListaHorarios() {
   // const urlautor = "https://localhost:44367/api-autores/autor";
@@ -55,12 +55,10 @@ export default function ComponenteListaHorarios() {
                 <th scope="row">{horario.codHorario}</th>
                 <td>{horario.turno}</td>
                 <td>
-                  <a
-                    href="/horarios/actualizar/${horario.codHorario}"
-                    className="btn btn-success"
-                  >
+                  <Link
+                    to={`/horarios/actualizar/${horario.codHorario}`} className="btn btn-success">
                     Editar
-                  </a>
+                  </Link>
                 </td>
                 <td>
                   <a href="#" className="btn btn-danger">

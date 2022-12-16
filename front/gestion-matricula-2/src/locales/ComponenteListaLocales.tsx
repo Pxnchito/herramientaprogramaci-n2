@@ -4,22 +4,9 @@ import { Link } from "react-router-dom";
  import { LocalesDTO } from "./locales.model";
 
 export default function ComponenteListaLocales() {
-  // const urlautor = "https://localhost:44367/api-autores/autor";
-  // const [autores, setAutores] = useState<AutorDTO[]>();
-  // useEffect(() => {
-  //   axios.get(urlautor).then((respuesta: AxiosResponse<AutorDTO[]>) => {
-  //     console.log(respuesta.data);
-  //     setAutores(respuesta.data);
-  //   });
-  // }, []);
-
   //definimos la direccion del END POINT
   const url = "https://localhost:44306/api-locales/local";
-  //creamos una variable y una funcion
-  //variable --> horarios
-  //funcion --> setHorarios
   const [locales, setLocales] = useState<LocalesDTO[]>();
-  //se realiza la peticion al API por medio del axios
   const peticionesGet = async () => {
     await axios
       .get(url)
@@ -55,7 +42,7 @@ export default function ComponenteListaLocales() {
                 <th scope="row">{local.codLocal}</th>
                 <td>{local.direccion}</td>
                 <td>
-                  <a href="/locales/actualizar/${local.codLocal}"className="btn btn-success">Editar</a>
+                  <Link to={`/locales/actualizar/${local.codLocal}`}className="btn btn-success">Editar</Link>
                 </td>
                 <td>
                   <a href="#" className="btn btn-danger">Eliminar</a>

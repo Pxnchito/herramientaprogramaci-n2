@@ -6,3 +6,4 @@ export interface HorariosDTO{
 export interface HorariosRegistrarDTO{
     turno: string;
 }
+

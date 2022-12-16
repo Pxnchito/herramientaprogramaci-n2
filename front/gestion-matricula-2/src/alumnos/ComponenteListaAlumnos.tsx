@@ -4,20 +4,9 @@ import { Link } from "react-router-dom";
  import { AlumnosDTO } from "./alumnos.model";
 
 export default function ComponenteListaEntrenadores() {
-  // const urlautor = "https://localhost:44367/api-autores/autor";
-  // const [autores, setAutores] = useState<AutorDTO[]>();
-  // useEffect(() => {
-  //   axios.get(urlautor).then((respuesta: AxiosResponse<AutorDTO[]>) => {
-  //     console.log(respuesta.data);
-  //     setAutores(respuesta.data);
-  //   });
-  // }, []);
-
   //definimos la direccion del END POINT
   const url = "https://localhost:44306/api-alumnos/alumno";
   //creamos una variable y una funcion
-  //variable --> horarios
-  //funcion --> setHorarios
   const [alumnos, setAlumnos] = useState<AlumnosDTO[]>();
   //se realiza la peticion al API por medio del axios
   const peticionesGet = async () => {
@@ -63,9 +52,7 @@ export default function ComponenteListaEntrenadores() {
             {alumnos?.map((alumno) => (
               <tr key={alumno.codAlumno}>
                 <td>
-                  <a href="/alumnos/actualizar/${alumno.codAlumno}" className="btn btn-success">
-                    Editar
-                  </a>
+                  <Link to={`/alumnos/actualizar/${alumno.codAlumno}`}className="btn btn-success">Editar</Link>
                   <a href="#" className="btn btn-danger mt-2">
                     Eliminar
                   </a>

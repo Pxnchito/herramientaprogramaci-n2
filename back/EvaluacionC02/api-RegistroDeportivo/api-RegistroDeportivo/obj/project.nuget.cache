@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SLnNN6YcM19deiv21xKdT0aN+Dgws00gqgmOZhpRjuOWElM3Ju/53nZkje044WD68JDurHkpUdZNPSBvCFcbgQ==",
+  "dgSpecHash": "kjq7OpcosZ8Obm/dCbJ2QdSie/guOSYe1JDFWK2UHYKd1NzOzSbpjBAKl4EAXx1iSlWpgYcdFANTo4YYhkHbqw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gustavo\\Desktop\\Ciclo 4\\Herramientas de Programación 2\\Gestion de Matricula\\back\\EvaluacionC02\\api-RegistroDeportivo\\api-RegistroDeportivo\\api-RegistroDeportivo.csproj",
+  "projectFilePath": "C:\\Users\\Gustavo\\Desktop\\Ciclo 4\\Herramientas de Programación 2\\herramientaprogramaci-n2\\back\\EvaluacionC02\\api-RegistroDeportivo\\api-RegistroDeportivo\\api-RegistroDeportivo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gustavo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Gustavo\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.17\\microsoft.aspnetcore.authentication.jwtbearer.5.0.17.nupkg.sha512",

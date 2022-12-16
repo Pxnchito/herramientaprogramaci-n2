@@ -6,6 +6,9 @@ export interface LocalesDTO{
 export interface LocalesRegistrarDTO{
     direccion: string;
 }
+
+
+
 export interface LocalesBorrarDTO{
     codLocal: Integer;
 }

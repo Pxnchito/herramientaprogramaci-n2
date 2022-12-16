@@ -4,3 +4,9 @@ export interface MatriculasDTO{
     telefono: string;
     codAlumno: Integer;
 }
+
+export interface MatriculasRegistrarDTO{
+    direccion: string;
+    telefono: string;
+    codAlumno: Integer;
+}

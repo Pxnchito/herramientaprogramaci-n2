@@ -15,10 +15,10 @@ export default function ComponenteRegistrarHorario() {
   async function RegistrarHorarios(horario:HorariosRegistrarDTO) {
      try{
       await axios.post(url, horario);
-      history("/horarios");
+         history("/horarios");
      }catch(error){
       console.log(error);
-      history("/horarios");
+         history("/horarios");
      }
   }
 

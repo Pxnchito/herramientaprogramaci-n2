@@ -7,8 +7,7 @@ export default function ComponenteFormularioCajaTexto(props: FormularioCajaTexto
         <div className="col-md-6">
         {props.label ? <label className="form-label" 
         htmlFor={props.campo}><h4>{props.label}</h4></label>:null}
-
-         <Field name={props.campo} className="form-control"  />
+         <Field name={props.campo} value={props.value} className="form-control" />
        </div>
        <div className="col-md-6 mt-4">
        <ErrorMessage name={props.campo}>
@@ -24,4 +23,5 @@ interface FormularioCajaTexto {
     campo:string;
     label?:string;
     placeholder?:string;
+    value?:string;
 }

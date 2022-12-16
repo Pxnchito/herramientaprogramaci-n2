@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gustavo\\Desktop\\Ciclo 4\\Herramientas de Programación 2\\Gestion de Matricula\\back\\EvaluacionC02\\api-RegistroDeportivo\\api-RegistroDeportivo\\api-RegistroDeportivo.csproj": {}
+    "C:\\Users\\Gustavo\\Desktop\\Ciclo 4\\Herramientas de Programación 2\\herramientaprogramaci-n2\\back\\EvaluacionC02\\api-RegistroDeportivo\\api-RegistroDeportivo\\api-RegistroDeportivo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gustavo\\Desktop\\Ciclo 4\\Herramientas de Programación 2\\Gestion de Matricula\\back\\EvaluacionC02\\api-RegistroDeportivo\\api-RegistroDeportivo\\api-RegistroDeportivo.csproj": {
+    "C:\\Users\\Gustavo\\Desktop\\Ciclo 4\\Herramientas de Programación 2\\herramientaprogramaci-n2\\back\\EvaluacionC02\\api-RegistroDeportivo\\api-RegistroDeportivo\\api-RegistroDeportivo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gustavo\\Desktop\\Ciclo 4\\Herramientas de Programación 2\\Gestion de Matricula\\back\\EvaluacionC02\\api-RegistroDeportivo\\api-RegistroDeportivo\\api-RegistroDeportivo.csproj",
+        "projectUniqueName": "C:\\Users\\Gustavo\\Desktop\\Ciclo 4\\Herramientas de Programación 2\\herramientaprogramaci-n2\\back\\EvaluacionC02\\api-RegistroDeportivo\\api-RegistroDeportivo\\api-RegistroDeportivo.csproj",
         "projectName": "api-RegistroDeportivo",
-        "projectPath": "C:\\Users\\Gustavo\\Desktop\\Ciclo 4\\Herramientas de Programación 2\\Gestion de Matricula\\back\\EvaluacionC02\\api-RegistroDeportivo\\api-RegistroDeportivo\\api-RegistroDeportivo.csproj",
+        "projectPath": "C:\\Users\\Gustavo\\Desktop\\Ciclo 4\\Herramientas de Programación 2\\herramientaprogramaci-n2\\back\\EvaluacionC02\\api-RegistroDeportivo\\api-RegistroDeportivo\\api-RegistroDeportivo.csproj",
         "packagesPath": "C:\\Users\\Gustavo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gustavo\\Desktop\\Ciclo 4\\Herramientas de Programación 2\\Gestion de Matricula\\back\\EvaluacionC02\\api-RegistroDeportivo\\api-RegistroDeportivo\\obj\\",
+        "outputPath": "C:\\Users\\Gustavo\\Desktop\\Ciclo 4\\Herramientas de Programación 2\\herramientaprogramaci-n2\\back\\EvaluacionC02\\api-RegistroDeportivo\\api-RegistroDeportivo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

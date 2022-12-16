@@ -19,6 +19,8 @@ import ComponenteRegistrarAlumno from "./alumnos/ComponenteRegistrarAlumno";
 import ComponenteActualizaAlumno from "./alumnos/ComponenteActualizarAlumno";
 //Matriculas
 import ComponenteListaMatriculas  from "./matriculas/ComponenteListaMatriculas";
+import ComponenteRegistrarMatricula  from "./matriculas/ComponenteRegistrarMatricula";
+import ComponenteActualizarMatricula from "./matriculas/ComponenteActualizarMatricula";
 
 
 const rutas=[
@@ -42,6 +44,8 @@ const rutas=[
 {path:'/alumnos/registrar',componente:ComponenteRegistrarAlumno},
 //Matriculas
 {path:'/matriculas',componente:ComponenteListaMatriculas},
+{path:'/matriculas/registrar',componente:ComponenteRegistrarMatricula},
+{path:'/matriculas/actualizar/:id',componente:ComponenteActualizarMatricula},
 
 //Crando un path para rutas no encontradas, esto simepre va al final
 {path:'*',componente:ComponenteRedireccionar}

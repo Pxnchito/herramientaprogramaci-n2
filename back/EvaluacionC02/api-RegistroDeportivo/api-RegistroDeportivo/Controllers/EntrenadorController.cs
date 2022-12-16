@@ -48,7 +48,15 @@ namespace api_RegistroDeportivo.Controllers
         {
             var entrenador = await context.Entrenador
                 .FirstOrDefaultAsync(x => x.codEntrenador == id);
-            return entrenador;
+
+            if (entrenador == null)
+            {
+                return NotFound();
+            }
+            else
+            {
+                return entrenador;
+            }
         }
 
         //cuando queremos actualizar informacion
