@@ -44,7 +44,7 @@ export default function ComponenteRegistrarHorario() {
  }
     return (
       <div>
-          <h1>Actializar Horario</h1>
+          <h1>Actualizar Horario</h1>
           <Formik initialValues={{
             codHorario:0,
             turno:"",

@@ -42,7 +42,7 @@ export default function ComponenteActualizarEntrenador() {
 
     return (
       <div>
-        <h1>Actializar Alumno</h1>
+        <h1>Actualizar Alumno</h1>
           <Formik initialValues={{
                 codAlumno: "",
                 dni: "",

@@ -42,7 +42,7 @@ export default function ComponenteActualizarLocales() {
  }
     return (
       <div>
-          <h1>Actuazlizar Matricula</h1>
+          <h1>Actualizar Matricula</h1>
           <Formik initialValues={{
                 codmatricula: "",
                 direccion: "",
@@ -76,7 +76,7 @@ export default function ComponenteActualizarLocales() {
 
             <div className="row mt-4 ">
               <div className="col-md-2">
-                <button type="submit" className="btn btn-primary form-control ">Registrar</button>
+                <button type="submit" className="btn btn-primary form-control ">Actualizar</button>
               </div>
               <div className="col-md-2">
                 <Link className="btn btn-danger form-control" to="/matriculas">Cancelar</Link>

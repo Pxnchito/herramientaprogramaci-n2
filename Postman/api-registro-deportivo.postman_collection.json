@@ -1,0 +1,287 @@
+{
+	"info": {
+		"_postman_id": "c074c41a-e3fc-41df-a55b-e2b0c087c1ec",
+		"name": "api-registro-deportivo",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "23769345"
+	},
+	"item": [
+		{
+			"name": "Alumnos",
+			"item": [
+				{
+					"name": "findall",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": "https://localhost:44306/api-alumnos/alumno/1"
+					},
+					"response": []
+				},
+				{
+					"name": "add",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"dni\":1234678,\r\n    \"nombre\": \"Gustavo\",\r\n    \"apellido\":\"Sandoval\",\r\n    \"direccion\":\"Lima Mz g L11\",\r\n    \"fchNacimento\": \"12/11/2002\",\r\n    \"correo\": \"gus@gmail.com\",\r\n    \"nomapeApo\":\"Pedro\",\r\n    \"dniApo\":73667364,\r\n    \"telfApo\": 98989989,\r\n    \"codEntrenador\": 1,\r\n    \"codHorario\": 1,\r\n    \"codLocal\":1\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "https://localhost:44306/api-alumnos/alumno"
+					},
+					"response": []
+				},
+				{
+					"name": "Delete",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": "https://localhost:44306/api-alumnos/alumno/2"
+					},
+					"response": []
+				},
+				{
+					"name": "Update",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "    {\r\n        \"codAlumno\": 1,\r\n        \"dni\": 1234678,\r\n        \"nombre\": \"Gustavo\",\r\n        \"apellido\": \"Sandoval Libia\",\r\n        \"direccion\": \"Lima Mz g L11\",\r\n        \"fchNacimento\": \"12/11/2002\",\r\n        \"correo\": \"gus@gmail.com\",\r\n        \"nomapeApo\": \"Pedro\",\r\n        \"dniApo\": 73667364,\r\n        \"telfApo\": 98989989,\r\n        \"codEntrenador\": 1,\r\n        \"entrenador\": null,\r\n        \"codHorario\": 1,\r\n        \"horarios\": null,\r\n        \"codLocal\": 1,\r\n        \"locales\": null,\r\n        \"matricula\": null\r\n    }",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "https://localhost:44306/api-alumnos/alumno/1"
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Entrenadores",
+			"item": [
+				{
+					"name": "findall",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": "https://localhost:44306/api-entrenadores/entrenador"
+					},
+					"response": []
+				},
+				{
+					"name": "add",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"dni\": 73663764,\r\n    \"nombre\": \"Pablo\",\r\n    \"apellido\":\"Martinez\",\r\n    \"correo\":\"e@gmail.com\",\r\n    \"telefono\":983986747,\r\n    \"codHorario\":1\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "https://localhost:44306/api-entrenadores/entrenador"
+					},
+					"response": []
+				},
+				{
+					"name": "Delete",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": "https://localhost:44306/api-entrenadores/entrenador/1"
+					},
+					"response": []
+				},
+				{
+					"name": "Update",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "    \r\n    {\r\n        \"codEntrenador\": 1,\r\n        \"dni\": 1234678,\r\n        \"nombre\": \"Juan \",\r\n        \"apellido\": \"Martines\",\r\n        \"correo\": \"mar@gmail.com\",\r\n        \"telefono\": 989898944,\r\n        \"codHorario\": 1,\r\n        \"horarios\": null,\r\n        \"alumnos\": null\r\n    }",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "https://localhost:44306/api-entrenadores/entrenador/1"
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Horarios",
+			"item": [
+				{
+					"name": "findall",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": "https://localhost:44306/api-horaios/horario/2"
+					},
+					"response": []
+				},
+				{
+					"name": "add",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"turno\": \"Tarde\"\r\n}\r\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "https://localhost:44306/api-horaios/horario"
+					},
+					"response": []
+				},
+				{
+					"name": "Delete",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": "https://localhost:44306/api-horaios/horario/10"
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Matriculas",
+			"item": [
+				{
+					"name": "findall",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": "https://localhost:44306/api-alumnos/matricula"
+					},
+					"response": []
+				},
+				{
+					"name": "Update",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "    \r\n    {\r\n        \"codmatricula\": 1,\r\n        \"direccion\": \"Lima 13\",\r\n        \"telefono\": \"978787878\",\r\n        \"codAlumno\": 1,\r\n        \"alumno\": null\r\n    }",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "https://localhost:44306/api-alumnos/matricula/1"
+					},
+					"response": []
+				},
+				{
+					"name": "add",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"direccion\": \"Lima 12\",\r\n    \"telefono\": \"978787878\",\r\n    \"codAlumno\":1\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "https://localhost:44306/api-alumnos/matricula"
+					},
+					"response": []
+				},
+				{
+					"name": "Delete Copy",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": "https://localhost:44306/api-alumnos/matricula/1"
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Locales",
+			"item": [
+				{
+					"name": "findall",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": "https://localhost:44306/api-locales/local"
+					},
+					"response": []
+				},
+				{
+					"name": "add",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"direccion\": \"Lima 12\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "https://localhost:44306/api-locales/local"
+					},
+					"response": []
+				},
+				{
+					"name": "Update",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "    {\r\n        \"id\": 1,\r\n        \"direccion\": \"Lima 5\",\r\n        \"alumnos\": null\r\n    }",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "https://localhost:44306/api-locales/local/1"
+					},
+					"response": []
+				},
+				{
+					"name": "Delete",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": "https://localhost:44306/api-locales/local/5"
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}

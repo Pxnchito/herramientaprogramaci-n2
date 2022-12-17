@@ -42,7 +42,7 @@ export default function ComponenteActualizarEntrenador() {
 
     return (
       <div>
-        <h1>Actializar Entrendor</h1>
+        <h1>Actualizar Entrendor</h1>
           <Formik initialValues={{
             codEntrenador: "",
             dni:"",
@@ -81,7 +81,7 @@ export default function ComponenteActualizarEntrenador() {
             <ComponenteFormularioCajaTexto campo="codHorario" label="Cod Horario:" value={entrenadores?.codHorario}/>
             <div className="row mt-4 ">
               <div className="col-md-2">
-                <button type="submit" className="btn btn-primary form-control ">Actializar</button>
+                <button type="submit" className="btn btn-primary form-control ">Actualizar</button>
               </div>
               <div className="col-md-2">
                 <Link className="btn btn-danger form-control" to="/entrenadores">Cancelar</Link>
